@@ -8,7 +8,7 @@ https://elmas3.github.io/mao-seminar/
 えるます
 わかば
 謎の男
-謎謎謎
+謎謎
 
 # ディレクトリ構成
 ```
